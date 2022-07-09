@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=placar
+comment1.params=
+comment1.target=placar()
+comment2.params=
+comment2.target=void\ atualizarPlacar()
+comment3.params=
+comment3.target=void\ perderPonto()
+comment4.params=
+comment4.target=void\ ganharPonto()
+comment5.params=
+comment5.target=int\ getPonto()
+numComments=6
